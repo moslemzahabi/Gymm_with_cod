@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spinner_textsize">20dp</dimen>
+<dimen name="TextView_textsize">10dp</dimen>
+    <dimen name="daily_mov_123">20dp</dimen>
+
+</resources>

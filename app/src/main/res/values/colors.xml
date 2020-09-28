@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#333A39</color>
+    <color name="colorPrimaryDark">#202222</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="line_backgroung">#271D1D</color>
+    <color name="dot_active">#C59FAD</color>
+    <color name="dot_inactive">#5A3939</color>
+    <color name="textColor_black">#000</color>
+</resources>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="number">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="exersise">
+        <item> </item>
+        <item>پرس سینه</item>
+        <item>سرشانه</item>
+        <item>جلو بازو</item>
+        <item>پشت بازو</item>
+        <item>زیربغل</item>
+        <item>کول</item>
+    </string-array>
+
+    <string-array name="peres">
+        <item>خالی</item>
+        <item>پرس 1</item>
+        <item>پرس 2</item>
+        <item>پرس 3</item>
+        <item>پرس 4</item>
+        <item>پرس 5</item>
+        <item>پرس 6</item>
+    </string-array>
+
+    <string-array name="sarshaneh">
+        <item>سرشانه 1</item>
+        <item>سرشانه 2</item>
+        <item>سرشانه 3</item>
+        <item>سرشانه 4</item>
+        <item>سرشانه 5</item>
+    </string-array>
+
+    <string-array name="jelobazoo">
+        <item>جلوبازو 1</item>
+        <item>جلوبازو 2</item>
+        <item>جلوبازو 3</item>
+        <item>جلوبازو 4</item>
+        <item>جلوبازو 5</item>
+    </string-array>
+
+    <string-array name="poshtbazoo">
+        <item>پشتبازو 1</item>
+        <item>پشتبازو 2</item>
+        <item>پشتبازو 3</item>
+        <item>پشتبازو 4</item>
+        <item>پشتبازو 5</item>
+    </string-array>
+
+    <string-array name="zirbaghal">
+        <item>زیربغل 1</item>
+        <item>زیربغل 2</item>
+        <item>زیربغل 3</item>
+        <item>زیربغل 4</item>
+        <item>زیربغل 5</item>
+    </string-array>
+
+    <string-array name="kool">
+        <item>کول 1</item>
+        <item>کول 2</item>
+        <item>کول 3</item>
+        <item>کول 4</item>
+        <item>کول 5</item>
+    </string-array>
+
+    <string-array name="noting">
+        <item></item>
+    </string-array>
+
+<string-array name="Allmovname">
+    <item>اتن</item>
+    <item>اتن</item>
+    <item>اتن</item>
+    <item>اتن</item>
+    <item>اتن</item>
+
+</string-array>
+
+
+
+<!--............................................................................-->
+
+    <string-array name="English_peres">
+        <item>peres 1</item>
+        <item>peres 2</item>
+        <item>peres 3</item>
+        <item>peres 4</item>
+        <item>peres 5</item>
+        <item>peres 6</item>
+    </string-array>
+
+    <string-array name="English_sarshaneh">
+        <item>sarshane 1</item>
+        <item>sarshane 2</item>
+        <item>sarshane 3</item>
+        <item>sarshane 4</item>
+        <item>sarshane 5</item>
+    </string-array>
+
+    <string-array name="English_jelobazoo">
+        <item>jelobazoo 1</item>
+        <item>jelobazoo 2</item>
+        <item>jelobazoo 3</item>
+        <item>jelobazoo 4</item>
+        <item>jelobazoo 5</item>
+    </string-array>
+
+    <string-array name="English_poshtbazoo">
+        <item>poshtbazoo 1</item>
+        <item>poshtbazoo 2</item>
+        <item>poshtbazoo 3</item>
+        <item>poshtbazoo 4</item>
+        <item>poshtbazoo 5</item>
+    </string-array>
+
+    <string-array name="English_zirbaghal">
+        <item>zirbaghal 1</item>
+        <item>zirbaghal 2</item>
+        <item>zirbaghal 3</item>
+        <item>zirbaghal 4</item>
+        <item>zirbaghal 5</item>
+    </string-array>
+
+    <string-array name="English_kool">
+        <item>kool 1</item>
+        <item>kool 2</item>
+        <item>kool 3</item>
+        <item>kool 4</item>
+        <item>kool 5</item>
+    </string-array>
+
+<!--.....................................................................................-->
+
+
+    <string-array name="muscletarget_peres">
+        <item>muscletarget_peres 1</item>
+        <item>muscletarget_peres 2</item>
+        <item>muscletarget_peres 3</item>
+        <item>muscletarget_peres 4</item>
+        <item>muscletarget_peres 5</item>
+        <item>muscletarget_peres 6</item>
+    </string-array>
+
+    <string-array name="muscletarget_sarshaneh">
+        <item>muscletarget_sarshane 1</item>
+        <item>muscletarget_sarshane 2</item>
+        <item>muscletarget_sarshane 3</item>
+        <item>muscletarget_sarshane 4</item>
+        <item>muscletarget_sarshane 5</item>
+    </string-array>
+
+    <string-array name="muscletarget_jelobazoo">
+        <item>muscletarget_jelobazoo 1</item>
+        <item>muscletarget_jelobazoo 2</item>
+        <item>muscletarget_jelobazoo 3</item>
+        <item>muscletarget_jelobazoo 4</item>
+        <item>muscletarget_jelobazoo 5</item>
+    </string-array>
+
+    <string-array name="muscletarget_poshtbazoo">
+        <item>muscletarget_poshtbazoo 1</item>
+        <item>muscletarget_poshtbazoo 2</item>
+        <item>muscletarget_poshtbazoo 3</item>
+        <item>muscletarget_poshtbazoo 4</item>
+        <item>muscletarget_poshtbazoo 5</item>
+    </string-array>
+
+    <string-array name="muscletarget_zirbaghal">
+        <item>muscletarget_zirbaghal 1</item>
+        <item>muscletarget_zirbaghal 2</item>
+        <item>muscletarget_zirbaghal 3</item>
+        <item>muscletarget_zirbaghal 4</item>
+        <item>muscletarget_zirbaghal 5</item>
+    </string-array>
+
+    <string-array name="muscletarget_kool">
+        <item>muscletarget_kool 1</item>
+        <item>muscletarget_kool 2</item>
+        <item>muscletarget_kool 3</item>
+        <item>muscletarget_kool 4</item>
+        <item>muscletarget_kool 5</item>
+    </string-array>
+
+
+</resources>

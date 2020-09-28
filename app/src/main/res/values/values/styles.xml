@@ -1,0 +1,55 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="TextView1" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="android:gravity">center</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_margin">8dp</item>
+
+    </style>
+
+    <style name="DialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">#41bf13</item>
+        <item name="android:textColorPrimary">#ac2a2a</item>
+        <item name="android:windowBackground">@drawable/dialog_background</item>
+        <item name="buttonBarNegativeButtonStyle">@style/NegativeButton</item>
+        <item name="buttonBarPositiveButtonStyle">@style/PositiveButton</item>
+        <item name="buttonBarNeutralButtonStyle">@style/NeutralButton</item>
+    </style>
+
+    <style name="PositiveButton" parent="Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <item name="android:textColor">#d6062d</item>
+    </style>
+
+    <style name="NegativeButton" parent="Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <item name="android:textColor">#131e68</item>
+    </style>
+
+    <style name="NeutralButton" parent="Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <item name="android:textColor">#1da6ba</item>
+    </style>
+
+<style name="View_Daily_p_h1">
+    <item name="android:background">#000</item>
+    <item name="android:layout_width">0dp</item>
+    <item name="android:layout_height">3dp</item>
+    <item name="android:layout_marginStart">8dp</item>
+    <item name="android:layout_marginEnd">8dp</item>
+</style>
+    <style name="View_Daily_p_h2">
+        <item name="android:background">#1B34AA</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">3dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+    </style>
+
+</resources>
